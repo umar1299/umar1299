@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Ahmad</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" src="https://media.wired.com/photos/59332658d80dd005b42b1392/master/w_2560%2Cc_limit/output_RqcvgG.gif">
+<img align="center" alt="coding" src="https://wallpaperaccess.com/full/5927911.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umar1299&label=Profile%20views&color=0e75b6&style=flat" alt="umar1299" /> </p>
